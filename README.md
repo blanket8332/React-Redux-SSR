@@ -13,10 +13,11 @@
 
 ## Getting started
 ```bash
-$ yarn
-$ yarn build
-$ yarn server-build
-$ node server.js
+yarn
+yarn build
+yarn server-build
+node server.js
+
 ```
 
 Service available on `localhost:8079`
